@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\api-expense-aspnetcore.props" />
+</Project>

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ST9/lwWcUjxiO2RPLOgyuwCHB5+4PwLRcuyeQ4uFgvM=",
+  "Source": "api-expense-aspnetcore",
+  "BasePath": "_content/api-expense-aspnetcore",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
